@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main1() {
     double num1, num2;
     char op;
 
