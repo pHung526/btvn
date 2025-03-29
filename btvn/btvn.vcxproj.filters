@@ -26,5 +26,8 @@
     <ClInclude Include="contro2.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="baikiemtra.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
